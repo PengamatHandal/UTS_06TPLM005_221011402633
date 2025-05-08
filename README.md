@@ -1,19 +1,6 @@
-# UTS_006TPLM005_221011402633
-=======
-# weather_app_design
+Abu Bakar Bill Gates<br><br>
 
-A new Flutter project.
+Desain Sederhana Menggunakan FLutter<br><br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+![Contoh Codingan](Screenshot_Hasil_Akhir_1.jpg)<br>
+![Contoh Codingan](Screenshot_Hasil_Akhir_2.jpg)
